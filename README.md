@@ -1,4 +1,4 @@
-### 👋 Hi there
+### Hi there 👋
 
 I'm a self-taught developer with a passion for electronics, web development, and the captivating world of IoT. 
 
