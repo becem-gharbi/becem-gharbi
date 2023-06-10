@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a self-taught software developer with a passion for embedded systems, web development, and the captivating world of IoT. 
+I'm a self-taught software developer with a passion for embedded systems, web development and IoT. 
 
 Open-source projects have been a huge source of inspiration and knowledge, and I love giving back to the community.
 
