@@ -2,8 +2,7 @@
 
 ### About me
 
-- My name is Becem Gharbi
-- I live in Tunisia
+- I'm live in Tunisia
 - I'm an Electro-mechanical Engineer
 - I'm a self-taught Full-stack developer
 - I'm passionate about Embedded systems and IoT
