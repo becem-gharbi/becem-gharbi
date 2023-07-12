@@ -34,8 +34,8 @@
 
 ### Frontend
 
-[![HTML](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E44D26)](https://www.w3.org/standards/webdesign/htmlcss.html)
-[![CSS](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=0066b6)](https://www.w3.org/standards/webdesign/htmlcss.html)
+[![HTML](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=E44D26)](https://www.w3.org/standards/webdesign/htmlcss.html)
+[![CSS](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=0066b6)](https://www.w3.org/standards/webdesign/htmlcss.html)
 [![Vue](https://img.shields.io/badge/Vue-323330?style=for-the-badge&logo=vue.js&logoColor=41B481)](https://vuejs.org/)
 [![Nuxt](https://img.shields.io/badge/Nuxt-323330?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)](https://nuxt.com/)
 [![TailwindCss](https://img.shields.io/badge/Tailwind-323330?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)](https://www.tailwindcss.com/)
