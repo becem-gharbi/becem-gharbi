@@ -4,20 +4,21 @@
 
 - My name is Becem Gharbi
 - I live in Tunisia
-- I'm an Electro-mechanical Engineer and a Full-stack developer
+- I'm an Electro-mechanical Engineer
+- I'm a self-taught Full-stack developer
 - I'm passionate about Embedded systems and IoT
 
 ### Contacts
 
 <div>
   <a href="mailto:becem.gharbi@live.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-323330?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://www.linkedin.com/in/becem-gharbi-142523195/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-323330.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="https://discordapp.com/users/Becem#6401">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-6B62FF.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-323330.svg?&style=for-the-badge&logo=discord&logoColor=5865F2" />
   </a>
 </div>
 
