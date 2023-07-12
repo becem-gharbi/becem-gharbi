@@ -53,9 +53,8 @@
 
 [![GIT](https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git&logoColor=f64d27)](https://git-scm.com)
 [![GITHUB](https://img.shields.io/badge/github_actions-323330?style=for-the-badge&logo=githubactions&logoColor=2088ff)](https://github.com/features/actions)
+[![Docker](https://img.shields.io/badge/docker-323330?style=for-the-badge&logo=docker&logoColor=#4285f4)](https://www.docker.com/)
 [![Google Cloud](https://img.shields.io/badge/gcp-323330?style=for-the-badge&logo=googlecloud&logoColor=#4285f4)](https://cloud.google.com/)
-[![Cloudflare](https://img.shields.io/badge/cloudflare-323330?style=for-the-badge&logo=cloudflare&logoColor=#4285f4)](https://cloudflare.com)
-
 ### Headless CMS
 
 [![Directus](https://img.shields.io/badge/directus-323330?style=for-the-badge&logo=directus&logoColor=6644fe)](https://directus.io/)
