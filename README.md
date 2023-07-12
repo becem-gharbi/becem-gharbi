@@ -7,7 +7,7 @@
 - I'm a self-taught Full-stack developer
 - I'm passionate about Embedded systems and IoT
 
-### Contacts
+### Contact
 
 <div>
   <a href="mailto:becem.gharbi@live.com">
