@@ -47,6 +47,7 @@
 [![Nuxt](https://img.shields.io/badge/Nuxt-323330?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)](https://nuxt.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![Hasura](https://img.shields.io/badge/Hasura-323330?style=for-the-badge&logo=hasura)](https://hasura.io)
+[![Directus](https://img.shields.io/badge/directus-323330?style=for-the-badge&logo=directus&logoColor=6644fe)](https://directus.io/)
 [![Prisma](https://img.shields.io/badge/Prisma-323330?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 
 ### CI/CD
@@ -55,7 +56,4 @@
 [![GITHUB](https://img.shields.io/badge/github_actions-323330?style=for-the-badge&logo=githubactions&logoColor=2088ff)](https://github.com/features/actions)
 [![Docker](https://img.shields.io/badge/docker-323330?style=for-the-badge&logo=docker&logoColor=#4285f4)](https://www.docker.com/)
 [![Google Cloud](https://img.shields.io/badge/gcp-323330?style=for-the-badge&logo=googlecloud&logoColor=#4285f4)](https://cloud.google.com/)
-### Headless CMS
 
-[![Directus](https://img.shields.io/badge/directus-323330?style=for-the-badge&logo=directus&logoColor=6644fe)](https://directus.io/)
-[![Strapi](https://img.shields.io/badge/strapi-323330?style=for-the-badge&logo=strapi&logoColor=4945FF)](https://strapi.io/)
