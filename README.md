@@ -4,7 +4,7 @@ My name is Becem and I'm from Tunisia. I'm an electromechanical engineer and a s
 
 My goal here on GitHub is to help accelerate the development process
 
-- In web development, I specialize in developing Nuxt 3 modules for handling common tasks such as authentication.
+- In web, I specialize in developing Nuxt 3 modules for handling common tasks such as authentication.
 
 - In IoT, I specialize in developing ESP32 based solutions such as [ESP Admin](https://github.com/esp-admin) for handling needed tasks such as OTA.
 
