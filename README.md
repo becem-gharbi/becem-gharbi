@@ -2,7 +2,7 @@ Hi there 👋
 
 My name is Becem and I'm from Tunisia. I'm an electromechanical engineer and a self-taught software developer. 
 
-My goal here on GithHub is to help accelerate the development process
+My goal here on GitHub is to help accelerate the development process
 
 - In web development, I specialize in developing Nuxt 3 modules for handling common tasks such as authentication.
 
