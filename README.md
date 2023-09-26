@@ -1,9 +1,11 @@
 Hi there 👋
 
-My name is Becem and I'm from Tunisia. I'm an electromechanical engineer and a self-taught software developer.
+My name is Becem and I'm from Tunisia. I'm an electromechanical engineer and a self-taught software developer. 
 
-My GitHub journey is about making the Nuxt experience even more simple. I specialize in developing Nuxt 3 modules and starters that provide ready to use solutions. 
+My goal here on GithHub is to help accelerate the development process
 
-Beyond the world of web development, I'm passionate about IoT. I specialize in developing ESP32 based solutions and working on projects such as [ESP Admin](https://github.com/esp-admin) that accelerate the development process.
+- In web development, I specialize in developing Nuxt 3 modules for handling common tasks such as authentication.
 
-In case You have any question, feel free to reach me out on [Linkedin](https://www.linkedin.com/in/becem-gharbi-142523195) and [Discord](https://discord.com/users/Becem#6401).
+- In IoT, I specialize in developing ESP32 based solutions such as [ESP Admin](https://github.com/esp-admin) for handling needed tasks such as OTA.
+
+In case you have any questions, feel free to reach me out on [Linkedin](https://www.linkedin.com/in/becem-gharbi-142523195) and [Discord](https://discord.com/users/Becem#6401).
