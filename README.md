@@ -1,2 +1,1 @@
-![Becem's GitHub stats](https://github-readme-stats.vercel.app/api?username=becem-gharbi&show_icons=true&theme=transparent&hide_border=true)
-![](https://hit.yhype.me/github/profile?user_id=99251251)
+[![StandWithPalestine](https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_badge.svg)](https://github.com/karim-eg/StandWithPalestine)
